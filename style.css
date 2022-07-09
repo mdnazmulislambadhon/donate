@@ -1,0 +1,38 @@
+body{
+    margin-bottom: 20px;
+    
+}
+.top{
+    background-image: url(donate-today-main/images/donation9.jpg);
+    background-repeat: no-repeat;
+}
+.first{
+    text-align: center;
+    color: lime;
+   
+}
+.stc{
+    color: white;
+    font-size: 50px;
+}
+.download{
+     background-image: linear-gradient(orange, rgb(233, 48, 16));
+     text-decoration: none;
+     padding: 3px;
+     border-radius: 4px;
+     color: white;
+}
+.button{
+    
+}
+h1{
+    text-align: center;
+}
+.half{
+    width: 6%;
+    margin-left: 2%;
+    margin-right: 1%;
+    padding-left: 2%;
+    border-radius: 2%;
+    box-shadow: 3px 3px 5px grey;
+}
